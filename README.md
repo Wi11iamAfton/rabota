@@ -1,7 +1,7 @@
 # rabota
 
 <div>
-    <img src="https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fimages.stopgame.ru%2Fnews%2F2022%2F05%2F24%2FRI0nFcE1.jpg&text=jetstream+sam&rpt=simage&lr=21623", width=400/>
+    <img src="https://yandex.ru/images/search?pos=5&from=tabbar&img_url=https%3A%2F%2Fimages.stopgame.ru%2Fnews%2F2022%2F05%2F24%2FRI0nFcE1.jpg&text=jetstream+sam&rpt=simage&lr=21623", width=400>
 </div>
 
 **Работы ЮВ**
