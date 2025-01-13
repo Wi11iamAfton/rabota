@@ -19,9 +19,26 @@ https://docs.google.com/spreadsheets/d/1aDU0ndAULmlT9Cy8GoBGkTnL8K5js7es/edit?us
 https://docs.google.com/document/d/1X-9kClmaagzspwxR1NFwHbAi4TiUrPGIFCTPYJqZmLw/edit?usp=drive_link
 
 
+
 **Работы ЛН**
+
+
 
 **Твайн**
 
 https://wi11iamafton.github.io/REP_LN/
+
+**Скриншоты SQL запросов**
+
+https://docs.google.com/document/d/1WV_ShQ4X5b5r0b79XyC29ZWcTAadSuxFAncGfNkiedU/edit?usp=drive_link
+
+**Методичка по GIMP**
+
+https://docs.google.com/document/d/1FNvfpZbtcfZfSk07NLRj4-00skupQChpSzigL8IDwIQ/edit?usp=drive_link
+
+**Конспекты ОС и БД**
+
+https://docs.google.com/document/d/11JqTfeY8a91FiLHOejIydkpeCEGw2VxQkiDqygzql7s/edit?usp=drive_link
+
+https://docs.google.com/document/d/1OcJYTYQMrw4WfBn79fUst3lz1iHN4O8VdYl05tbiGsw/edit?usp=drive_link
 
